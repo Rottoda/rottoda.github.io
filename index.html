@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Robot Touch Data Lab at KNU</title>
+  <style>
+    body {
+      margin: 0;
+      background: radial-gradient(circle at center, #101010 0%, #000000 100%);
+      color: #00ffe7;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+      letter-spacing: 1px;
+    }
+
+    .touch-circle {
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      background: rgba(0, 255, 231, 0.2);
+      border: 2px solid #00ffe7;
+      animation: pulse 2s infinite;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+
+    .inner-dot {
+      width: 20px;
+      height: 20px;
+      background: #00ffe7;
+      border-radius: 50%;
+    }
+
+    @keyframes pulse {
+      0% {
+        transform: scale(1);
+        opacity: 0.6;
+      }
+      50% {
+        transform: scale(1.15);
+        opacity: 1;
+      }
+      100% {
+        transform: scale(1);
+        opacity: 0.6;
+      }
+    }
+
+    .caption {
+      margin-top: 2rem;
+      font-size: 1.2rem;
+      color: #cccccc;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Robot Touch Data Lab at KNU</h1>
+  <div class="touch-circle">
+    <div class="inner-dot"></div>
+  </div>
+  <div class="caption">Robot Touch Data Lab at KNU</div>
+</body>
+</html>
