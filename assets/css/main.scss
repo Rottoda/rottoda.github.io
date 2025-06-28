@@ -23,3 +23,25 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// /* 기본 (라이트 모드) 설정 */
+// .logo-dark {
+//   display: none;  /* 다크 모드 로고는 숨김 */
+// }
+// .logo-light {
+//   display: block; /* 라이트 모드 로고는 표시 */
+// }
+
+// /* 다크 모드가 활성화되었을 때의 설정 */
+// .dark .logo-light {
+//   display: none;  /* 라이트 모드 로고는 숨김 */
+// }
+// .dark .logo-dark {
+//   display: block; /* 다크 모드 로고는 표시 */
+// }
+
+// /* (선택) 로고 크기 조절 */
+// .navbar-brand img {
+//   height: 30px; /* 원하는 높이로 조절 */
+//   width: auto;
+// }

@@ -4,6 +4,8 @@
     <div class="container">
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+          <img src="{{ '/assets/img/rottoda-logo/rottoda-a-full-black.svg' | relative_url }}" alt="{{ site.title }}" class="logo-image light-mode">
+          <img src="{{ '/assets/img/rottoda-logo/rottoda-a-full-white.svg' | relative_url }}" alt="{{ site.title }}" class="logo-image dark-mode">
           {% if site.title == 'blank' %}
             {% if site.first_name %}
               <span class="font-weight-bold">
@@ -17,7 +19,7 @@
               {{- site.last_name -}}
             {% endif %}
           {% else %}
-            {{- site.title -}}
+            {% comment %} {{- site.title -}} {% endcomment %}
           {% endif %}
         </a>
       {% elsif site.enable_navbar_social %}
