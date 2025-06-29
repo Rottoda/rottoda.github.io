@@ -3,13 +3,20 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-rottoda",
+    title: "Rottoda",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-projects",
+          title: "Projects",
+          description: "Rottoda는 양질의 과제비 확보를 통해, 여러분들의 안정적인 연구수행 환경을 제공합니다.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -22,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
@@ -451,22 +451,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
+          section: "News",},{id: "news-홈페이지를-새단장-했습니다-참고-디자인-al-folio",
+          title: '홈페이지를 새단장 했습니다! (참고 디자인: al-folio)',
+          description: "",
+          section: "News",},{id: "news-rottoda-com-도메인-구매를-완료-하였습니다",
+          title: 'rottoda.com 도메인 구매를 완료 하였습니다.',
+          description: "",
+          section: "News",},{id: "news-vision-based-tactile-sensor-tutorial-사이트를-오픈하였습니다-클릭",
+          title: 'Vision-based Tactile Sensor Tutorial 사이트를 오픈하였습니다. (클릭)',
+          description: "",
+          section: "News",},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
@@ -496,40 +490,72 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-범용-인공지능-연구",
+          title: '범용 인공지능 연구',
+          description: "촉각 반응 제어 기법 연구",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/agi/";
+            },},{id: "projects-부산대-경북대-ds-협력",
+          title: '부산대-경북대 DS 협력',
+          description: "BK21사업",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bk21/";
+            },},{id: "projects-데이터기반-모빌리티-연구",
+          title: '데이터기반 모빌리티 연구',
+          description: "대학ICT연구센터 사업",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/itrc/";
+            },},{id: "projects-데이터사이언스-인재양성",
+          title: '데이터사이언스 인재양성',
+          description: "KDS사업",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/kds/";
+            },},{id: "projects-한국-영국-국제-공동연구",
+          title: '한국-영국 국제 공동연구',
+          description: "한국-영국 국제공동연구사업",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/korea-uk/";
             },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%73.%6E%61%6D@%6B%6E%75.%61%63.%6B%72", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/rottoda", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-instagram',
+        title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://instagram.com/knu_rottoda", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-7713-8505", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=DSZzGh0AAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-work',
+        title: 'Work',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://data.knu.ac.kr/", "_blank");
         },
       },{
       id: 'light-theme',
