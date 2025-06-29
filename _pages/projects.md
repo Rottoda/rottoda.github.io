@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
 description: Rottoda는 양질의 과제비 확보를 통해, 여러분들의 안정적인 연구수행 환경을 제공합니다.
 nav: true
