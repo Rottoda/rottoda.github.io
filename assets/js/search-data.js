@@ -10,18 +10,25 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-projects",
-          title: "Projects",
+          title: "projects",
           description: "Rottoda는 양질의 과제비 확보를 통해, 여러분들의 안정적인 연구수행 환경을 제공합니다.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
+        },{id: "nav-pi",
+          title: "PI",
+          description: "Introduction of the principal investigator",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/pi/";
+          },
+        },{id: "nav-members",
+          title: "members",
+          description: "Members at Rottoda",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/members/";
           },
         },{id: "nav-publications",
           title: "publications",
@@ -51,13 +58,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
@@ -72,7 +72,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
