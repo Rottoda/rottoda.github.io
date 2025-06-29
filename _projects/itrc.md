@@ -24,7 +24,7 @@ related_publications: true
 
 ## 연구내용
 <center>
-<img src="../assets/img/projects/itrc/ITRC.png" alt="ITRC" style="width:500px; height:auto;">
+<img src="../../assets/img/projects/itrc/ITRC.png" alt="ITRC" style="width:500px; height:auto;">
 </center>
 - 탑승자와 터치 패널 사이에서 일어나는 터치 빅데이터를 분석
 - 학습된 터치 데이터는 탑승자의 조작 특성을 파악

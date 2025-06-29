@@ -23,7 +23,7 @@ related_publications: true
 
 ## 연구내용
 <center>
-<img src="../assets/img/projects/korea-uk/MultiTip.png" alt="Korea-UK joint research" style="width:500px; height:auto;">
+<img src="../../assets/img/projects/korea-uk/MultiTip.png" alt="Korea-UK joint research" style="width:500px; height:auto;">
 </center>
 
 - TacTip 기반 촉각 센서의 스킨 떨림 측정 기술, 6D 자유도 자세 측정 기술 개발

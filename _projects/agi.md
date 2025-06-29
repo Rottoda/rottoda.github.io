@@ -25,7 +25,7 @@ related_publications: true
 
 ## 연구내용
 <center>
-<img src="../assets/img/projects/agi/rep_img.png" alt="AGI" style="width:500px; height:auto;">
+<img src="../../assets/img/projects/agi/rep_img.png" alt="AGI" style="width:500px; height:auto;">
 </center>
 
 - 위치/압력/전단력/온도/진동 검지용 촉각 센서 개발
