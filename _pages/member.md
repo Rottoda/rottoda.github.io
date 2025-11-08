@@ -16,7 +16,7 @@ nav_order: 3
 
 ## Researchers
 ### Post-master researcher
-- [고동현 (Donghyun Ko) 👨‍💼](#고동현-donghyun-ko-)
+- [고동현 (Donghyun Ko) 👨‍💼](#고동현-donghyun-ko-) ➡ Contract terminated in Oct. 2025
 
 ## Master Course
 ### Commencement in 2025
@@ -32,14 +32,13 @@ nav_order: 3
 - [장지은 (Jieun Jang) 📗](#장지은-jieun-jang-)
 - [정희명 (HuiMyeong Jeong) 👨‍💼](#정희명-huimyeong-jeong-)
 ### Commencement in 2023
-- [김은주 (JuJu Kim) 👩‍💼](#김은주-juju-kim-)
-- [나윤희 (Yun Hui Na)📗](#나윤희-yun-hui-na)
+- [김은주 (JuJu Kim) 👩‍💼](#김은주-juju-kim-) ➡ Graduated in Aug. 2025, Goes to 로봇산업진흥원
+- [나윤희 (Yun Hui Na)📗](#나윤희-yun-hui-na) ➡ Graduated in Aug. 2025
 - [노광현 (Kwang Hyeon Ro)👨‍💼](#노광현-kwang-hyeon-ro)
-- [박종민 (Jongmin Park)👨‍💼](#박종민-jongmin-park)
+- [박종민 (Jongmin Park)👨‍💼](#박종민-jongmin-park) ➡ Graduated in Aug. 2025
 - 우승준 (Seung Jun Woo)👨‍💼 ➡ Graduated in Feb. 2024 
-- [정다빈 (Dabeen Jeong)👨‍💼](#정다빈-dabeen-jeong)
 - [조현우 (Hyeonwoo Cho)👨‍💼](#조현우-hyeonwoo-cho)
-- [탁은영 (EunYeong Tak)📗](#탁은영-eunyeong-tak)
+- [탁은영 (EunYeong Tak)📗](#탁은영-eunyeong-tak) ➡ Graduated in Aug. 2025
 - 한영민 (Youngmin Han)👨‍💼 ➡ Graduated in Feb. 2024
 
 
@@ -112,10 +111,6 @@ nav_order: 3
 - <img src="../assets/img/members/Park_Jongmin.jpg" alt="Jongmin Park" style="width:120px; height:auto;">
 - 관심분야: Haptics, ML
 - 🔗[LinkedIn](https://www.linkedin.com/in/jongmin-park-269426179)
-
-## 정다빈 (Dabeen Jeong)👨‍💼
-- <img src="../assets/img/members/ai_member6.png" alt="Dabeen Jeong" style="width:150px; height:auto;">
-- 관심분야: 이기종 데이터 플랫폼 간 데이터 처리
 
 ## 조현우 (Hyeonwoo Cho)👨‍💼
 - <img src="../assets/img/members/ai_member9.png" alt="Hyeonwoo Cho" style="width:150px; height:auto;">
