@@ -13,8 +13,17 @@ nav_order: 4
 
 {% include bib_search.liquid %}
 
-<div class="publications">
+## 📖 Peer-reviewed Journals & Conferences
 
-{% bibliography %}
+<div class="publications">
+{% bibliography --query @*[keywords!=domestic]* %}
+</div>
+
+---
+
+## 🎤 Domestic Conferences & etc. (국내학술대회 및 기타)
+
+<div class="publications">
+{% bibliography --query @*[keywords=domestic]* %}
 
 </div>
