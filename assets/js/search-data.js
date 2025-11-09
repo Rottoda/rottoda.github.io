@@ -53,17 +53,17 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "List of courses PI provides.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+        },{id: "dropdown-tactip-fabriation",
+              title: "TacTip Fabriation",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/books/";
+                window.location.href = "/tactip_fab/";
               },
             },{id: "dropdown-blog",
               title: "blog",
@@ -72,14 +72,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "post-a-post-with-plotly-js",
+            },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -447,63 +440,112 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-robot-touch-data-lab의-역사적인-첫-랩-회식을-진행했습니다",
           title: 'Robot Touch Data Lab의 역사적인 첫 랩 회식을 진행했습니다.',
           description: "",
-          section: "News",},{id: "news-제2회-한국-햅틱스-학술대회의-미래-모빌리티-햅틱-기술-아이디어-공모전에서-ai를-활용한-햅틱-모빌리티-기술-을-주제로-참가하여-인기상을-수상하였습니다-축하합니다-수상학생-노광현-권태준-김은주-장지은",
-          title: '제2회 한국 햅틱스 학술대회의 미래 모빌리티 햅틱 기술 아이디어 공모전에서 ‘AI를 활용한 햅틱...',
+          section: "News",handler: () => {
+              window.location.href = "/news/20240725_team_dinner/";
+            },},{id: "news-ai를-활용한-햅틱-모빌리티-기술-을-주제로-참가하여-인기상을-수상하였습니다",
+          title: '‘AI를 활용한 햅틱 모빌리티 기술’ 을 주제로 참가하여 인기상을 수상하였습니다.',
           description: "",
-          section: "News",},{id: "news-robot-touch-data-lab의-1호-멤버인-권태준-학생이-나노기술협의회에서-주관하는-2024-나노영챌린지-공모전에서-우수상을-수상하였습니다-축합니다",
-          title: 'Robot Touch Data Lab의 1호 멤버인 권태준 학생이 나노기술협의회에서 주관하는 2024 나노영챌린지 공모전에서...',
+          section: "News",handler: () => {
+              window.location.href = "/news/20240821_KHC/";
+            },},{id: "news-ict-챌린지에-참가했습니다",
+          title: 'ICT 챌린지에 참가했습니다.',
           description: "",
-          section: "News",},{id: "news-robot-touch-data-lab에서-첫-졸업생을-배출했습니다-한영민-우승준-학생-행복하세요",
-          title: 'Robot Touch Data Lab에서 첫 졸업생을 배출했습니다. 한영민, 우승준 학생, 행복하세요~!',
+          section: "News",handler: () => {
+              window.location.href = "/news/20240925_ICT_challenge/";
+            },},{id: "news-fix-2024-전시회에-참가했습니다",
+          title: 'FIX 2024 전시회에 참가했습니다.',
           description: "",
-          section: "News",},{id: "news-삼성역-coex에서-itrc-인재양성대전에-참여하였습니다-참여학생-권태준-김효성-장지은",
-          title: '삼성역 COEX에서 ITRC 인재양성대전에 참여하였습니다.      참여학생: 권태준, 김효성, 장지은',
+          section: "News",handler: () => {
+              window.location.href = "/news/20241024_FIX/";
+            },},{id: "news-k-ds-컨퍼런스-amp-해커톤에-참가했습니다",
+          title: 'K-DS 컨퍼런스 &amp;amp; 해커톤에 참가했습니다.',
           description: "",
-          section: "News",},{id: "news-홈페이지를-새단장-했습니다-참고-디자인-al-folio",
-          title: '홈페이지를 새단장 했습니다! (참고 디자인: al-folio)',
+          section: "News",handler: () => {
+              window.location.href = "/news/20241112_KDS/";
+            },},{id: "news-한국통신학회-2024년도-추계종합학술발표회를-참가했습니다",
+          title: '한국통신학회 2024년도 추계종합학술발표회를 참가했습니다.',
           description: "",
-          section: "News",},{id: "news-rottoda-com-도메인-구매를-완료-하였습니다",
+          section: "News",handler: () => {
+              window.location.href = "/news/20241122_telecom_conf/";
+            },},{id: "news-robot-touch-data-lab의-1호-멤버인-권태준-학생이-우수상을-수상하였습니다",
+          title: 'Robot Touch Data Lab의 1호 멤버인 권태준 학생이 우수상을 수상하였습니다.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20241128_young_challenge/";
+            },},{id: "news-2024학년도-2학기-졸업식-거행",
+          title: '2024학년도 2학기 졸업식 거행!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20250221_graduation/";
+            },},{id: "news-itrc-인재양성대전에-참여하였습니다",
+          title: 'ITRC 인재양성대전에 참여하였습니다.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20250425_ITRC/";
+            },},{id: "news-홈페이지를-새단장-했습니다",
+          title: '홈페이지를 새단장 했습니다!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20250629_web_renewal/";
+            },},{id: "news-rottoda-com-도메인-구매를-완료-하였습니다",
           title: 'rottoda.com 도메인 구매를 완료 하였습니다.',
           description: "",
-          section: "News",},{id: "news-햅틱스-분야-가장-권위있는-학회인-world-haptics-conference-2025가-수원에서-열려-rottoda랩의-멤버들도-성공적인-데모와-발표를-수행했습니다-참여학생-탁은영-장지은-권태준-김효성",
-          title: '햅틱스 분야 가장 권위있는 학회인 World Haptics Conference 2025가 수원에서 열려, Rottoda랩의 멤버들도...',
+          section: "News",handler: () => {
+              window.location.href = "/news/20250629_domain_purchase/";
+            },},{id: "news-rottoda가-world-haptics-conference-2025에-참여했습니다",
+          title: 'Rottoda가 World Haptics Conference 2025에 참여했습니다.',
           description: "",
-          section: "News",},{id: "news-2025학년도-1학기-졸업식-거행-졸업자-김은주-박종민-탁은영-나윤희",
-          title: '2025학년도 1학기 졸업식 거행!      졸업자: 김은주, 박종민, 탁은영, 나윤희',
+          section: "News",handler: () => {
+              window.location.href = "/news/20250708_WHC/";
+            },},{id: "news-2025학년도-1학기-졸업식-거행",
+          title: '2025학년도 1학기 졸업식 거행!',
           description: "",
-          section: "News",},{id: "news-오스트리아-빈에서-열리는-ekc2025-학회에-참가하였습니다-참여학생-장지은-김효성",
-          title: '오스트리아 빈에서 열리는 EKC2025 학회에 참가하였습니다.      참여학생: 장지은, 김효성',
+          section: "News",handler: () => {
+              window.location.href = "/news/20250822_graduation/";
+            },},{id: "news-오스트리아-빈에서-열린-ekc2025-학회에-참가하였습니다",
+          title: '오스트리아 빈에서 열린 EKC2025 학회에 참가하였습니다.',
           description: "",
-          section: "News",},{id: "news-대구-호텔수성에서-열린-k-data-science-컨퍼런스에-참가하였습니다-참여학생-권태준-박종민-이준희-장지은-나윤희-이은정-김효성-건강상의-이유로-부재",
-          title: '대구 호텔수성에서 열린 K-Data Science 컨퍼런스에 참가하였습니다. 참여학생: 권태준, 박종민, 이준희, 장지은, 나윤희,...',
+          section: "News",handler: () => {
+              window.location.href = "/news/20250829_EKC/";
+            },},{id: "news-대구-호텔수성에서-열린-k-data-science-컨퍼런스에-참가하였습니다",
+          title: '대구 호텔수성에서 열린 K-Data Science 컨퍼런스에 참가하였습니다.',
           description: "",
-          section: "News",},{id: "news-경축-rottoda의-에이스-김효성-학생이-2025-ict-챌린지에서-과기부-장관상을-수상하였습니다-축하합니다-매일신문-스마트-안전벨트로-미래-모빌리티-혁신-경북대-학생들이-해냈다-뉴시스-경북대-d-ace팀-ict-챌린지-과기부-장관상-수상-경북신문-경북대-대학원생팀-차세대-스마트-안전벨트-로-과기부-장관상-수상-포인트경제-경북대-데이터사이언스학과-과기부-장관상-수상",
-          title: '경축! Rottoda의 에이스, 김효성 학생이 2025 ICT 챌린지에서 과기부 장관상을 수상하였습니다. 축하합니다. 매일신문,...',
+          section: "News",handler: () => {
+              window.location.href = "/news/20250905_KDS/";
+            },},{id: "news-경축-rottoda의-에이스-김효성-학생이-2025-ict-챌린지에서-과기부-장관상을-수상하였습니다",
+          title: '경축! Rottoda의 에이스, 김효성 학생이 2025 ICT 챌린지에서 과기부 장관상을 수상하였습니다.',
           description: "",
-          section: "News",},{id: "news-university-of-bristol의-nathan-f-lepora-교수-efi-psomopoulou-교수-silvia-terrile-박사가-경북대학교-rottoda랩을-방문하여-강연과-연구-미팅을-진행하였습니다",
-          title: 'University of Bristol의 Nathan F. Lepora 교수, Efi Psomopoulou 교수, Silvia Terrile 박사가...',
+          section: "News",handler: () => {
+              window.location.href = "/news/20250911_ICT_challenge/";
+            },},{id: "news-university-of-bristol의-연구진이-경북대를-방문했습니다",
+          title: 'University of Bristol의 연구진이 경북대를 방문했습니다.',
           description: "",
-          section: "News",},{id: "news-humanoids-2025에서-dexterous-humanoid-manipulation-workshop에-포스터-발표-및-참여-하였습니다-참여학생-김효성-이준희",
-          title: 'Humanoids 2025에서 Dexterous Humanoid Manipulation Workshop에 포스터 발표 및 참여 하였습니다. 참여학생: 김효성,...',
+          section: "News",handler: () => {
+              window.location.href = "/news/20250925_KNU_bristol/";
+            },},{id: "news-humanoids-2025에서-dexterous-humanoid-manipulation-workshop에-포스터-발표-및-참여-하였습니다",
+          title: 'Humanoids 2025에서 Dexterous Humanoid Manipulation Workshop에 포스터 발표 및 참여 하였습니다.',
           description: "",
-          section: "News",},{id: "news-kiev-2025에서-장지은-학생이-성공적인-발표를-마쳤습니다-참여학생-장지은-권태준",
-          title: 'KIEV 2025에서 장지은 학생이 성공적인 발표를 마쳤습니다.      참여학생: 장지은, 권태준',
+          section: "News",handler: () => {
+              window.location.href = "/news/20251002_humanoids/";
+            },},{id: "news-kiev-2025에서-장지은-학생이-성공적인-발표를-마쳤습니다",
+          title: 'KIEV 2025에서 장지은 학생이 성공적인 발표를 마쳤습니다.',
           description: "",
-          section: "News",},{id: "news-남세광-교수가-로봇신문의-젊은-로봇-공학자-로-소개되었습니다-젊은-로봇-공학자-88-경북대학교-남세광-교수",
-          title: '남세광 교수가 로봇신문의 ‘젊은 로봇 공학자’로 소개되었습니다. ‘젊은 로봇 공학자’ (88) 경북대학교 남세광...',
+          section: "News",handler: () => {
+              window.location.href = "/news/20251016_kiev/";
+            },},{id: "news-남세광-교수가-로봇신문의-39-젊은-로봇-공학자-39-로-소개되었습니다",
+          title: '남세광 교수가 로봇신문의 &amp;#39;젊은 로봇 공학자&amp;#39;로 소개되었습니다.',
           description: "",
-          section: "News",},{id: "news-iccas-2025에서-권태준-학생이-성공적인-발표를-마쳤습니다-참여학생-권태준-장지은",
-          title: 'ICCAS 2025에서 권태준 학생이 성공적인 발표를 마쳤습니다.      참여학생: 권태준, 장지은',
+          section: "News",handler: () => {
+              window.location.href = "/news/20251026_Robotplus/";
+            },},{id: "news-iccas-2025에서-권태준-학생이-성공적인-발표를-마쳤습니다",
+          title: 'ICCAS 2025에서 권태준 학생이 성공적인 발표를 마쳤습니다.',
           description: "",
-          section: "News",},{id: "projects-project-4",
+          section: "News",handler: () => {
+              window.location.href = "/news/20251105_ICCAS/";
+            },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
