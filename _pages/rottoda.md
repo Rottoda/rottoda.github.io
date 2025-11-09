@@ -12,10 +12,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
 우리 연구실은
@@ -30,7 +30,7 @@ latest_posts:
 - 로봇, AI에 관심이 많은데 어떻게 시작해야할 지 모르는 학생
 - 빅데이터 기반의 수학적이고 객관적인 모델을 만들고 싶은 학생
 - 영어 또는 논문 작성법 등의 soft skill을 높이고 싶은 학생
-연구실 Open position에 관해서는 [recruitment](https://rottoda.com) 를 참고해 주세요.
+연구실 Open position에 관해서는 [recruitment](https://www.instagram.com/p/DQMijhOj3Th/) 를 참고해 주세요.
 
 <!-- ![Main research](/assets/img/major_figs/web_main_pic.png) -->
 <center>
