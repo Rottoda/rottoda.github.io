@@ -1,7 +1,8 @@
 ---
 layout: post
+title: 남세광 교수가 로봇신문의 '젊은 로봇 공학자'로 소개되었습니다.
 date: 2025-10-26 23:00:00+0900
-inline: true
+inline: false
 related_posts: false
 ---
 

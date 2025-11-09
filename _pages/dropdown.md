@@ -1,13 +1,12 @@
 ---
 layout: page
-title: submenus
+title: topics
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
-  - title: divider
+  - title: TacTip Fabriation
+    permalink: /tactip_fab/
   - title: blog
     permalink: /blog/
 ---

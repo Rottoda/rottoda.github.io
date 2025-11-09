@@ -1,7 +1,8 @@
 ---
 layout: post
+title: 홈페이지를 새단장 했습니다!
 date: 2025-06-29 12:00:00+0900
-inline: true
+inline: false
 related_posts: false
 ---
 

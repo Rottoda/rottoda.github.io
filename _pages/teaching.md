@@ -2,11 +2,24 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: List of courses PI provides.
 nav: true
 nav_order: 6
 ---
+## 2nd semester in 2025
+- Data computing
+- Pragmatic robot programing
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## 1st semester in 2025
+- Data programing
+- Data-based robotics
 
-Organize your courses by years, topics, or universities, however you like!
+## 2nd semester in 2024
+- Data process and modeling
+- Data computing
+
+## 1st semester in 2024
+- Data science computing 1
+- Data science convergence research
+
+
