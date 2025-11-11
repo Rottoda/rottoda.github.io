@@ -19,11 +19,13 @@ nav_order: 3
 - [고동현 (Donghyun Ko) 👨‍💼](#고동현-donghyun-ko-) ➡ Contract terminated in Oct. 2025
 
 ## Master Course
+
 ### Commencement in 2025
 - [김효성 (Hyosung Kim) 📗](#김효성-hyosung-kim-)
 - [이준희 (Edward Lee) 📗](#이준희-edward-lee-)
 - [정윤석 (Yunseok Jeong) 👨‍💼](#정윤석-yunseok-jeong-)
 - [이시명 (Simyung Lee) 👨‍💼](#이시명-simyung-lee-)
+
 ### Commencement in 2024
 - [박계순 (Kyesun Park) 👨‍💼](#박계순-kyesun-park-)
 - [권태준 (TaeJun Kwon) 📗](#권태준-taejun-kwon-)
@@ -31,20 +33,20 @@ nav_order: 3
 - [이현규 (Hyungyu Lee) 👨‍💼](#이현규-hyungyu-lee-)
 - [장지은 (Jieun Jang) 📗](#장지은-jieun-jang-)
 - [정희명 (HuiMyeong Jeong) 👨‍💼](#정희명-huimyeong-jeong-)
+
 ### Commencement in 2023
-- [김은주 (JuJu Kim) 👩‍💼](#김은주-juju-kim-) ➡ Graduated in Aug. 2025, Goes to 로봇산업진흥원
+- [김은주 (JuJu Kim) 👩‍💼](#김은주-juju-kim-) ➡ Graduated in Aug. 2025, went to 한국로봇산업진흥원
 - [나윤희 (Yun Hui Na)📗](#나윤희-yun-hui-na) ➡ Graduated in Aug. 2025
 - [노광현 (Kwang Hyeon Ro)👨‍💼](#노광현-kwang-hyeon-ro)
 - [박종민 (Jongmin Park)👨‍💼](#박종민-jongmin-park) ➡ Graduated in Aug. 2025
-- 우승준 (Seung Jun Woo)👨‍💼 ➡ Graduated in Feb. 2024 
+- 우승준 (Seung Jun Woo)👨‍💼 ➡ Graduated in Feb. 2024, went to 이음기술
 - [조현우 (Hyeonwoo Cho)👨‍💼](#조현우-hyeonwoo-cho)
 - [탁은영 (EunYeong Tak)📗](#탁은영-eunyeong-tak) ➡ Graduated in Aug. 2025
-- 한영민 (Youngmin Han)👨‍💼 ➡ Graduated in Feb. 2024
+- 한영민 (Youngmin Han)👨‍💼 ➡ Graduated in Feb. 2024, went to 에이디엔이노텍
 
 
 ## 고동현 (Donghyun Ko) 👨‍💼
 - <img src="../assets/img/members/ai_member5.png" alt="Donghyun Ko" style="width:150px; height:auto;">
-- ![[ai_member5.png|150]]
 - 관심분야: Imitation Learning
 
 ## 김효성 (Hyosung Kim) 📗
