@@ -36,7 +36,7 @@ nav_order: 3
 
 ### Commencement in 2023
 - [김은주 (JuJu Kim) 👩‍💼](#김은주-juju-kim-) ➡ Graduated in Aug. 2025, went to 한국로봇산업진흥원
-- [나윤희 (Yun Hui Na)📗](#나윤희-yun-hui-na) ➡ Graduated in Aug. 2025
+- [나윤희 (Yun Hui Na)📗](#나윤희-yun-hui-na) ➡ Graduated in Aug. 2025, went to 경북대학교 첨단정보통신융합산업기술원
 - [노광현 (Kwang Hyeon Ro)👨‍💼](#노광현-kwang-hyeon-ro)
 - [박종민 (Jongmin Park)👨‍💼](#박종민-jongmin-park) ➡ Graduated in Aug. 2025
 - 우승준 (Seung Jun Woo)👨‍💼 ➡ Graduated in Feb. 2024, went to 이음기술
