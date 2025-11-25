@@ -23,11 +23,37 @@ module ExternalPosts
     end
 
     def fetch_from_rss(site, src)
-      xml = HTTParty.get(src['rss_url']).body
-      return if xml.nil?
-      feed = Feedjira.parse(xml)
-      process_entries(site, src, feed.entries)
+      # Define headers to look like a real browser
+      headers = {
+        "User-Agent" => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+      }
+
+      begin
+        response = HTTParty.get(src['rss_url'], headers: headers)
+        
+        # Check if request was actually successful
+        if response.code != 200
+          puts "!! Error fetching #{src['name']}: Server returned code #{response.code}"
+          return
+        end
+
+        xml = response.body
+        return if xml.nil?
+
+        feed = Feedjira.parse(xml)
+        process_entries(site, src, feed.entries)
+
+      rescue StandardError => e
+        puts "!! Error parsing feed for #{src['name']}: #{e.message}"
+      end
     end
+
+    # def fetch_from_rss(site, src)
+    #   xml = HTTParty.get(src['rss_url']).body
+    #   return if xml.nil?
+    #   feed = Feedjira.parse(xml)
+    #   process_entries(site, src, feed.entries)
+    # end
 
     def process_entries(site, src, entries)
       entries.each do |e|
@@ -69,9 +95,13 @@ module ExternalPosts
     def fetch_from_urls(site, src)
       src['posts'].each do |post|
         puts "...fetching #{post['url']}"
-        content = fetch_content_from_url(post['url'])
-        content[:published] = parse_published_date(post['published_date'])
-        create_document(site, src['name'], post['url'], content)
+        begin
+          content = fetch_content_from_url(post['url'])
+          content[:published] = parse_published_date(post['published_date'])
+          create_document(site, src['name'], post['url'], content)
+        rescue StandardError => e
+           puts "!! Failed to fetch url #{post['url']}: #{e.message}"
+        end
       end
     end
 
