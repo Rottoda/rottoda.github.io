@@ -509,6 +509,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20250905_KDS/";
+            },},{id: "news-경축-rottoda의-떠오르는-신예-이준희-학생이-k-data-science-컨퍼런스에서-미래연구상을-수상하였습니다",
+          title: '경축! Rottoda의 떠오르는 신예, 이준희 학생이 K-Data Science 컨퍼런스에서 미래연구상을 수상하였습니다.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20250905_KDS_award/";
             },},{id: "news-경축-rottoda의-에이스-김효성-학생이-2025-ict-챌린지에서-과기부-장관상을-수상하였습니다",
           title: '경축! Rottoda의 에이스, 김효성 학생이 2025 ICT 챌린지에서 과기부 장관상을 수상하였습니다.',
           description: "",
