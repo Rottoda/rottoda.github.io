@@ -1422,15 +1422,15 @@ figure.cover {
 .logo-image {
   display: none;
   height: 32px; // 원하는 높이로 조정
-  width: auto
+  width: auto;
 }
 
 /* 라이트 모드용 로고 */
-html[data-theme='light'] .light-mode {
+html[data-theme="light"] .light-mode {
   display: inline;
 }
 
 /* 다크 모드용 로고 */
-html[data-theme='dark'] .dark-mode {
+html[data-theme="dark"] .dark-mode {
   display: inline;
 }

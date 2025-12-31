@@ -6,5 +6,4 @@ description: This page presents how a TacTip is fabricated.
 nav: false
 ---
 
-
 Under construction
