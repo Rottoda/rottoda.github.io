@@ -30,3 +30,11 @@ nav_order: 2
 - **Researcher**, Electronics and Telecommunications Research Institute, Daejeon, South Korea (2013 - 2017)
 - **Postdoctoral Research Associate**, Dexterous Robotics Group, University of Bristol, UK (2022 - 2024)
 - **Assistant Professor**, Graduate School of Data Science, Kyungpook National University, Daegu, South Korea (2024 - present)
+
+## Academic Services 🏛️
+
+- **Local Chair**, 2026 Asia Haptics Conference (2026)
+- **Extended Abstracts Chair**, The 9th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2026) (2026)
+- **Member of the Organizing Committee**, The 4th Korean Haptics Society PI Symposium (제4회 한국햅틱스학회 PI Symposium 준비위원) (2026)
+- **Director of International Cooperation**, Korean Haptics Society (한국햅틱스학회 국제협력 이사) (2025 - 2026)
+- **Member of the Organizing Committee**, The 3rd Korean Haptics Society PI Symposium (제3회 한국햅틱스학회 PI Symposium 준비위원) (2025)

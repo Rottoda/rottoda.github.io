@@ -5,7 +5,7 @@ description: 대학ICT연구센터 사업
 img: assets/img/projects/itrc/rep_img_v2.png
 importance: 1
 category: GSDS
-related_publications: true
+related_publications: false
 ---
 
 ## 과제정보

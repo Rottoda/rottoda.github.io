@@ -5,7 +5,7 @@ description: KDS사업
 img: assets/img/projects/kds/rep_img.png
 importance: 3
 category: GSDS
-related_publications: true
+related_publications: false
 ---
 
 ## 과제정보

@@ -5,7 +5,7 @@ description: 촉각 반응 제어 기법 연구
 img: assets/img/projects/agi/rep_img.png
 importance: 2
 category: Rottoda
-related_publications: true
+related_publications: false
 ---
 
 ## 과제정보

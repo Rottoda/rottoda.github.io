@@ -5,7 +5,7 @@ description: 한국-영국 국제공동연구사업
 img: assets/img/projects/korea-uk/rep_img_v2.png
 importance: 1
 category: Rottoda
-related_publications: true
+related_publications: false
 ---
 
 ## 과제정보
