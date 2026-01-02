@@ -11,11 +11,13 @@ related_posts: false
 ## 1. 논문 제목? 어떻게 정해야 할까?
 
 스스로 생각해보자. 논문을 검색할 때, 어떤 기준으로 찾게 되는지? 나의 경우는
+
 - 제목에 내가 찾고자 하는 키워드가 있는지
 - 초록 (abstract) 를 빠르게 읽었을 때, 내가 찾는 내용이 있는지
 - 그림들이 어떻게 구성돼 있는지
 
 를 파악하고, 진지하게 그 논문을 읽어볼지를 결정한다. 그만큼 제목은 정말 중요한 것이다. 여기서 알 수 있는 사실은
+
 - 논문 제목은 논문 내용의 **키워드**를 충분히 담아야 한다.
 
 이다.
@@ -45,8 +47,8 @@ related_posts: false
 - 그 분야에서 통용되는 단어라도 축약식 표현은 피하자.
 - "Investigation of", "Observations of", "Measurements of" 따위의 의미전달에 필요가 없는 표현은 삼가자.[^fn_sc]
 - Static 한 타이틀 보다는 Dynamic한 타이틀을 쓰자
-    - e.g.: 눈이 올때 미끄러지지 않는 걸음걸이 vs. 어떻게 걸으면 미끄러지지 않고 걸을까?
-- 중립적인 표현보다는 조금은 단정적인 표현으로 구성하자. 
+  - e.g.: 눈이 올때 미끄러지지 않는 걸음걸이 vs. 어떻게 걸으면 미끄러지지 않고 걸을까?
+- 중립적인 표현보다는 조금은 단정적인 표현으로 구성하자.
 
 ## 5. Sources
 
@@ -56,4 +58,3 @@ related_posts: false
 [^fn_4]: https://books.google.de/books?hl=en&lr=&id=y8ORL3DWt4sC&oi=fnd&pg=PR13&dq=info:Kw5VJJNaDy8J:scholar.google.com&ots=bMtSdsSbFA&sig=162u4m4ntpMlcr5fn9UskflMgqM&redir_esc=y#v=onepage&q&f=false
 [^fn_5]: https://link.springer.com/content/pdf/10.1007/s11263-010-0390-2.pdf
 [^fn_sc]: https://www.amazon.com/Scientific-Paper-Writing-Survival-Guide/dp/1516886267
-
