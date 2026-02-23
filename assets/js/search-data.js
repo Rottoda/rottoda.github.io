@@ -851,6 +851,31 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20251229_Rottoda/";
+            },},{id: "news-남세광-교수가-monash-university-malaysia에서-연구-교류를-하였습니다",
+          title: '남세광 교수가 Monash University Malaysia에서 연구 교류를 하였습니다.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260106_Monash/";
+            },},{id: "news-monash-university-malaysia에서-dr-lee-박사가-데이터사이언스대학원에서-연구-발표를-하였습니다",
+          title: 'Monash University Malaysia에서 Dr. Lee 박사가 데이터사이언스대학원에서 연구 발표를 하였습니다.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260109_Global_matching_lab/";
+            },},{id: "news-김효성-이준희-학생이-한국로봇종합학술대회에-참여하였습니다",
+          title: '김효성, 이준희 학생이 한국로봇종합학술대회에 참여하였습니다.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260204_KRoC/";
+            },},{id: "news-한국로봇종합학술대회에서-남세광-교수가-신진연구자세션에서-발표를-하였습니다",
+          title: '한국로봇종합학술대회에서 남세광 교수가 신진연구자세션에서 발표를 하였습니다.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260204_KRoC_new_researcher/";
+            },},{id: "news-2025학년도-2학기-졸업식-거행",
+          title: '2025학년도 2학기 졸업식 거행!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260220_graduation/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
