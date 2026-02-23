@@ -7,6 +7,12 @@ nav: true
 nav_order: 6
 ---
 
+### 1st semester in 2026
+
+- Data computing
+- Data-based robotics
+- Fundamentals of Robot & Mechanical Engineering at the department of Robotics KNU
+
 ### 2nd semester in 2025
 
 - Data computing

@@ -18,11 +18,17 @@ nav_order: 3
 
 ## Researchers
 
+- [손건희 (Gunhee Son) 📗](#손건희-gunhee-son-)
+
 ### Post-master researcher
 
 - [고동현 (Donghyun Ko) 👨‍💼](#고동현-donghyun-ko-) ➡ Contract terminated in Oct. 2025
 
 ## Master Course
+
+### Commencement in 2026
+
+- [구형모 (Hyeongmo Ku) 📗](#구형모-hyungmo-koo-)
 
 ### Commencement in 2025
 
@@ -34,22 +40,34 @@ nav_order: 3
 ### Commencement in 2024
 
 - [박계순 (Kyesun Park) 👨‍💼](#박계순-kyesun-park-)
-- [권태준 (TaeJun Kwon) 📗](#권태준-taejun-kwon-)
-- [이은정 (Eunjung Lee) 📗](#이은정-eunjung-lee-)
-- [이현규 (Hyungyu Lee) 👨‍💼](#이현규-hyungyu-lee-)
-- [장지은 (Jieun Jang) 📗](#장지은-jieun-jang-)
+- [권태준 (TaeJun Kwon) 📗](#권태준-taejun-kwon-) ➡ Graduated in Feb. 2026, remote part-time contract with Rottoda
+- [이은정 (Eunjung Lee) 📗](#이은정-eunjung-lee-) ➡ Graduated in Feb. 2026, went to 대구교육대학교 박사과정
+- [이현규 (Hyungyu Lee) 👨‍💼](#이현규-hyungyu-lee-) ➡ Graduated in Feb. 2026, went to POSCO
+- [장지은 (Jieun Jang) 📗](#장지은-jieun-jang-)  ➡ Graduated in Feb. 2026
 - [정희명 (HuiMyeong Jeong) 👨‍💼](#정희명-huimyeong-jeong-)
 
 ### Commencement in 2023
 
 - [김은주 (JuJu Kim) 👩‍💼](#김은주-juju-kim-) ➡ Graduated in Aug. 2025, went to 한국로봇산업진흥원
 - [나윤희 (Yun Hui Na)📗](#나윤희-yun-hui-na) ➡ Graduated in Aug. 2025, went to 경북대학교 첨단정보통신융합산업기술원
-- [노광현 (Kwang Hyeon Ro)👨‍💼](#노광현-kwang-hyeon-ro)
+- [노광현 (Kwang Hyeon Ro)👨‍💼](#노광현-kwang-hyeon-ro) ➡ Graduated in Feb. 2026, went to NUC 전자
 - [박종민 (Jongmin Park)👨‍💼](#박종민-jongmin-park) ➡ Graduated in Aug. 2025
 - 우승준 (Seung Jun Woo)👨‍💼 ➡ Graduated in Feb. 2024, went to 이음기술
-- [조현우 (Hyeonwoo Cho)👨‍💼](#조현우-hyeonwoo-cho)
+- [조현우 (Hyeonwoo Cho)👨‍💼](#조현우-hyeonwoo-cho) ➡ Graduated in Feb. 2026, went to 한국지능정보사회진흥원 (NIA)
 - [탁은영 (EunYeong Tak)📗](#탁은영-eunyeong-tak) ➡ Graduated in Aug. 2025
 - 한영민 (Youngmin Han)👨‍💼 ➡ Graduated in Feb. 2024, went to 에이디엔이노텍
+
+## 구형모 (Hyungmo Koo) 👨‍💼
+
+- <img src="../assets/img/members/Ku_Hyeongmo.png" alt="Hyeongmo Ku" style="width:150px; height:auto;">
+- 관심분야: Big data, Deep Learning, Collaborative Robot
+
+## 손건희 (Gunhee Son) 👨‍💼
+
+- <img src="../assets/img/members/Son_Gunhee.jpg" alt="Gunhee Son" style="width:150px; height:auto;">
+- 관심분야: Vision-Language-Action, Imitation Learning
+- [개인 홈페이지](https://sites.google.com/view/khson-profile)
+- 참고: 학부 연구생
 
 ## 고동현 (Donghyun Ko) 👨‍💼
 
