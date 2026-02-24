@@ -34,7 +34,7 @@ nav_order: 3
 
 - [김효성 (Hyosung Kim) 📗](#김효성-hyosung-kim-)
 - [이준희 (Edward Lee) 📗](#이준희-edward-lee-)
-- [정윤석 (Yunseok Jeong) 👨‍💼](#정윤석-yunseok-jeong-)
+- [정윤석 (Yoonseok Jeong) 👨‍💼](#정윤석-yoonseok-jeong-)
 - [이시명 (Simyung Lee) 👨‍💼](#이시명-simyung-lee-)
 
 ### Commencement in 2024
@@ -84,10 +84,10 @@ nav_order: 3
 - <img src="../assets/img/members/ai_member2.png" alt="Edward Lee" style="width:150px; height:auto;">
 - 관심분야: 로봇 빅데이터, ROS
 
-## 정윤석 (Yunseok Jeong) 👨‍💼
+## 정윤석 (Yoonseok Jeong) 👨‍💼
 
-- <img src="../assets/img/members/ai_member9.png" alt="Yunseok Jeong" style="width:150px; height:auto;">
-- 관심분야: 로보틱스, 데이터사이언스
+- <img src="../assets/img/members/Jeong_Yoonseok.jpeg" alt="Yunseok Jeong" style="width:150px; height:auto;">
+- 관심분야: 가상환경 기반 로봇 실증, 검증기술
 - 재직기관: 한국로봇산업진흥원
 
 ## 이시명 (Simyung Lee) 👨‍💼
