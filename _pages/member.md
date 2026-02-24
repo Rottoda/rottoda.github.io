@@ -57,12 +57,12 @@ nav_order: 3
 - [탁은영 (EunYeong Tak)📗](#탁은영-eunyeong-tak) ➡ Graduated in Aug. 2025
 - 한영민 (Youngmin Han)👨‍💼 ➡ Graduated in Feb. 2024, went to 에이디엔이노텍
 
-## 구형모 (Hyungmo Koo) 👨‍💼
+## 구형모 (Hyungmo Koo) 📗
 
 - <img src="../assets/img/members/Ku_Hyeongmo.png" alt="Hyeongmo Ku" style="width:150px; height:auto;">
 - 관심분야: Big data, Deep Learning, Collaborative Robot
 
-## 손건희 (Gunhee Son) 👨‍💼
+## 손건희 (Gunhee Son) 📗
 
 - <img src="../assets/img/members/Son_Gunhee.jpg" alt="Gunhee Son" style="width:150px; height:auto;">
 - 관심분야: Vision-Language-Action, Imitation Learning
@@ -111,12 +111,13 @@ nav_order: 3
 
 - <img src="../assets/img/members/Lee_Eunjung.jpg" alt="Eunjung Lee" style="width:120px; height:auto;">
 - 관심분야: 드론 촬영 영상의 OpenCV 기반 데이터 처리 및 분석
+- 졸업 후 재직기관: 대구교육대학교
 
 ## 이현규 (Hyungyu Lee) 👨‍💼
 
 - <img src="../assets/img/members/ai_member1.png" alt="Hyungyu Lee" style="width:150px; height:auto;">
 - 관심분야: 스마트 팩토리
-- 재직기관: POSCO
+- 졸업 후 재직기관: POSCO
 
 ## 장지은 (Jieun Jang) 📗
 
@@ -128,24 +129,24 @@ nav_order: 3
 - <img src="../assets/img/members/Jeong_HuiMyeong.jpeg" alt="HuiMyeong Jeong" style="width:120px; height:auto;">
 - 관심분야: 소셜 미디어 콘텐츠 참여도 예측을 위한 데이터 분석
 - 🔗[Instagram](https://www.instagram.com/ttneck.labs/), [LinkedIn](https://www.linkedin.com/in/ttnecklabs)
-- 재직기관: 대한민국 공군
 
 ## 김은주 (JuJu Kim) 👩‍💼
 
 - <img src="../assets/img/members/Kim_Juju.png" alt="JuJu Kim" style="width:120px; height:auto;">
 - 관심분야: 3대산업분야의 스마트화 로봇공정 구축 및 공정관련요소 데이터분석
-- 재직기관: 한국로봇산업진흥원
+- 졸업 후 재직기관: 한국로봇산업진흥원
 
 ## 나윤희 (Yun Hui Na)📗
 
 - <img src="../assets/img/members/ai_member4.png" alt="Yun Hui Na" style="width:150px; height:auto;">
 - 관심분야: Haptics, 기술사업화
+- 졸업 후 재직기관: 경북대학교 첨단정보통신융합산업기술원
 
 ## 노광현 (Kwang Hyeon Ro)👨‍💼
 
 - <img src="../assets/img/members/ai_member2.png" alt="Kwang Hyeon Ro" style="width:150px; height:auto;">
 - 관심분야: 햅틱 기술을 활용한 소비자 행태 분석 및 UX개선
-- 재직기관: NUC전자
+- 졸업 후 재직기관: NUC전자
 
 ## 박종민 (Jongmin Park)👨‍💼
 
@@ -157,6 +158,7 @@ nav_order: 3
 
 - <img src="../assets/img/members/ai_member9.png" alt="Hyeonwoo Cho" style="width:150px; height:auto;">
 - 관심분야 : 클라우드 분야 (전환, 성과, 정책 등)
+- 졸업 후 재직기관: 한국지능정보사회진흥원
 
 ## 탁은영 (EunYeong Tak)📗
 
