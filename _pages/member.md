@@ -29,6 +29,7 @@ nav_order: 3
 ### Commencement in 2026
 
 - [구형모 (Hyeongmo Ku) 📗](#구형모-hyungmo-koo-)
+- [최재웅 (Jaewoong Choi) 📗](#최재웅-jaewoong-choi-)
 
 ### Commencement in 2025
 
@@ -61,6 +62,11 @@ nav_order: 3
 
 - <img src="../assets/img/members/Ku_Hyeongmo.png" alt="Hyeongmo Ku" style="width:150px; height:auto;">
 - 관심분야: Big data, Deep Learning, Collaborative Robot
+
+## 최재웅 (Jaewoong Choi) 📗
+
+- <img src="../assets/img/members/Choi_Jaewoong.jpeg" alt="Jaewoong Choi" style="width:150px; height:auto;">
+- 관심분야: Imitation Learning, Dexterous Manipulation
 
 ## 손건희 (Gunhee Son) 📗
 
