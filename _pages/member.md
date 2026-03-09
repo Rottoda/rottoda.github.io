@@ -40,7 +40,6 @@ nav_order: 3
 
 ### Commencement in 2024
 
-- [박계순 (Kyesun Park) 👨‍💼](#박계순-kyesun-park-)
 - [권태준 (TaeJun Kwon) 📗](#권태준-taejun-kwon-) ➡ Graduated in Feb. 2026, remote part-time contract with Rottoda
 - [이은정 (Eunjung Lee) 📗](#이은정-eunjung-lee-) ➡ Graduated in Feb. 2026, went to 대구교육대학교 박사과정
 - [이현규 (Hyungyu Lee) 👨‍💼](#이현규-hyungyu-lee-) ➡ Graduated in Feb. 2026, went to POSCO
@@ -101,12 +100,6 @@ nav_order: 3
 - <img src="../assets/img/members/ai_member6.png" alt="Simyung Lee" style="width:150px; height:auto;">
 - 관심분야: 프로그래밍
 - 재직기관: 경북대학교 해양과학연구소
-
-## 박계순 (Kyesun Park) 👨‍💼
-
-- <img src="../assets/img/members/ai_member0.png" alt="Kyesun Park" style="width:150px; height:auto;">
-- 관심분야: ML
-- 재직기관: LS MnM
 
 ## 권태준 (TaeJun Kwon) 📗
 
