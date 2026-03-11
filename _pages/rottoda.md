@@ -31,7 +31,7 @@ latest_posts:
 - 로봇, AI에 관심이 많은데 어떻게 시작해야할 지 모르는 학생
 - 빅데이터 기반의 수학적이고 객관적인 모델을 만들고 싶은 학생
 - 영어 또는 논문 작성법 등의 soft skill을 높이고 싶은 학생
-  연구실 Open position에 관해서는 [recruitment](https://www.instagram.com/p/DQMijhOj3Th/) 를 참고해 주세요.
+  연구실 Open position에 관해서는 [recruitment](https://www.threads.com/@knu_rottoda/post/DVumV0iAXja?xmt=AQF0fVLuZZ5jGyiWaxjCyt7BOMhee3yVL2EH2iU-Z4heNQ) 를 참고해 주세요.
 
 <!-- ![Main research](/assets/img/major_figs/web_main_pic.png) -->
 <center>
