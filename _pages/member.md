@@ -30,7 +30,6 @@ nav_order: 3
 
 - [구형모 (Hyeongmo Ku) 📗](#구형모-hyungmo-koo-)
 - [최재웅 (Jaewoong Choi) 📗](#최재웅-jaewoong-choi-)
-- [Soojin Park 📗](#soojin-park-)
 
 ### Commencement in 2025
 
@@ -67,11 +66,6 @@ nav_order: 3
 
 - <img src="../assets/img/members/Choi_Jaewoong.jpeg" alt="Jaewoong Choi" style="width:150px; height:auto;">
 - 관심분야: Imitation Learning, Dexterous Manipulation
-
-## Soojin Park 📗
-
-- <img src="../assets/img/members/Park_Soojin.jpeg" alt="Soojin Park" style="width:150px; height:auto;">
-- 관심분야: 로봇 리스크 애널리스트, 스마트 에이징 데이터 사이언스
 
 ## 손건희 (Gunhee Son) 📗
 
