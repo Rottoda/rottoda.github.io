@@ -13,7 +13,6 @@ nav_order: 2
     --card-shadow: 0 1px 2px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.06);
     --card-shadow-hover: 0 6px 16px rgba(0,0,0,0.08), 0 12px 32px rgba(0,0,0,0.10);
     --section-gap: 3.5rem;
-    --rottoda: #641fff;
   }
 
   .team-page .team-section {
@@ -38,7 +37,7 @@ nav_order: 2
   .team-page .section-divider {
     height: 2px;
     width: 44px;
-    background: var(--rottoda);
+    background: var(--global-theme-color);
     border-radius: 2px;
     margin: 0 0 1.5rem;
   }
@@ -85,16 +84,16 @@ nav_order: 2
     gap: 0.35rem;
     padding: 0.35rem 0.7rem;
     border-radius: 999px;
-    border: 1px solid rgba(0,0,0,0.08);
+    border: 1px solid var(--global-divider-color);
     font-size: 0.85rem;
     color: var(--global-text-color, #212529);
     text-decoration: none;
     transition: all 0.15s ease;
   }
   .pi-card .pi-links a:hover {
-    background: var(--rottoda);
+    background: var(--global-theme-color);
     color: #fff;
-    border-color: var(--rottoda);
+    border-color: var(--global-theme-color);
   }
   .pi-meta h4 {
     font-size: 0.95rem;
@@ -183,7 +182,7 @@ nav_order: 2
     margin: auto 0 0;
   }
   .member-extra a {
-    color: var(--rottoda);
+    color: var(--global-theme-color);
     text-decoration: none;
   }
   .member-extra a:hover {
@@ -205,7 +204,10 @@ nav_order: 2
     transition: background 0.15s ease;
   }
   .alumni-item:hover {
-    background: rgba(100, 31, 255, 0.04);
+    background: rgba(100, 31, 255, 0.06);
+  }
+  html[data-theme="dark"] .alumni-item:hover {
+    background: rgba(146, 97, 255, 0.10);
   }
   .alumni-photo {
     flex: 0 0 56px;
@@ -252,8 +254,18 @@ nav_order: 2
     vertical-align: middle;
     font-weight: 500;
   }
-  .badge-fulltime { background: rgba(100, 31, 255, 0.1); color: var(--rottoda); }
-  .badge-parttime { background: rgba(0,0,0,0.06); color: #555; }
+  .badge-fulltime { background: rgba(100, 31, 255, 0.12); color: var(--global-theme-color); }
+  .badge-parttime { background: var(--global-divider-color); color: var(--global-text-color-light); }
+  html[data-theme="dark"] .badge-fulltime { background: rgba(146, 97, 255, 0.18); }
+
+  /* Commencement year sub-headers */
+  .team-page .year-label {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin: 1rem 0 0.8rem;
+    color: var(--global-text-color);
+  }
+  .team-page .year-label.spaced { margin-top: 2rem; }
 
   @media (max-width: 640px) {
     .pi-card {
@@ -282,7 +294,7 @@ nav_order: 2
       <img src="{{ '/assets/img/members/Nam_Saekwang.png' | relative_url }}" alt="Saekwang Nam">
     </div>
     <div class="pi-info">
-      <h3 class="pi-name">남세광 <span style="color:#888;font-weight:400;font-size:0.95rem;">Saekwang Nam</span></h3>
+      <h3 class="pi-name">남세광 <span style="color:var(--global-text-color-light);font-weight:400;font-size:0.95rem;">Saekwang Nam</span></h3>
       <p class="pi-role">
         Assistant Professor<br>
         Graduate School of Data Science, Kyungpook National University
@@ -355,7 +367,7 @@ nav_order: 2
   <p class="section-sub">Current graduate students by commencement year</p>
   <div class="section-divider"></div>
 
-  <h3 style="font-size:1.05rem;font-weight:600;margin:1rem 0 0.8rem;color:#444;">Commencement 2026</h3>
+  <h3 class="year-label">Commencement 2026</h3>
   <div class="member-grid">
 
     <div class="member-card">
@@ -392,7 +404,7 @@ nav_order: 2
 
   </div>
 
-  <h3 style="font-size:1.05rem;font-weight:600;margin:2rem 0 0.8rem;color:#444;">Commencement 2025</h3>
+  <h3 class="year-label spaced">Commencement 2025</h3>
   <div class="member-grid">
 
     <div class="member-card">
@@ -431,7 +443,7 @@ nav_order: 2
 
   </div>
 
-  <h3 style="font-size:1.05rem;font-weight:600;margin:2rem 0 0.8rem;color:#444;">Commencement 2024</h3>
+  <h3 class="year-label spaced">Commencement 2024</h3>
   <div class="member-grid">
 
     <div class="member-card">
