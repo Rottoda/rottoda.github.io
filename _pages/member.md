@@ -3,8 +3,7 @@ layout: page
 permalink: /members/
 title: members
 description: Members at Rottoda
-nav: true
-nav_order: 3
+nav: false
 ---
 
 > **Info**

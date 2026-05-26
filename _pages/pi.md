@@ -3,8 +3,7 @@ layout: page
 permalink: /pi/
 title: PI
 description: Introduction of the principal investigator
-nav: true
-nav_order: 2
+nav: false
 ---
 
 ## Saekwang Nam
