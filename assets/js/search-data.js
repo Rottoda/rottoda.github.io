@@ -16,19 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-pi",
-          title: "PI",
-          description: "Introduction of the principal investigator",
+        },{id: "nav-team",
+          title: "team",
+          description: "Members of the Rottoda lab",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/pi/";
-          },
-        },{id: "nav-members",
-          title: "members",
-          description: "Members at Rottoda",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/members/";
+            window.location.href = "/team/";
           },
         },{id: "nav-publications",
           title: "publications",
@@ -39,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-news",
           title: "news",
-          description: "",
+          description: "Recent activities and updates from the Rottoda lab",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
@@ -876,6 +869,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20260220_graduation/";
+            },},{id: "news-ieee-robosoft-2026-학회에서-성공적인-발표를-했습니다",
+          title: 'IEEE RoboSoft 2026 학회에서 성공적인 발표를 했습니다.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260408_robosoft/";
+            },},{id: "news-physical-ai-robot-워크샵에-다녀왔습니다",
+          title: 'Physical AI Robot 워크샵에 다녀왔습니다.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260521_PhysicalAI/";
+            },},{id: "news-robotis-openlab에-초대-받았습니다",
+          title: 'Robotis Openlab에 초대 받았습니다.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260522_Robotis_openlab/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
