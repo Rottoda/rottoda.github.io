@@ -291,7 +291,7 @@ nav_order: 2
 
   <div class="pi-card">
     <div class="pi-photo">
-      <img src="{{ '/assets/img/members/Nam_Saekwang.png' | relative_url }}" alt="Saekwang Nam">
+      <img src="{{ '/assets/img/members/Nam_Saekwang_v2.png' | relative_url }}" alt="Saekwang Nam">
     </div>
     <div class="pi-info">
       <h3 class="pi-name">남세광 <span style="color:var(--global-text-color-light);font-weight:400;font-size:0.95rem;">Saekwang Nam</span></h3>
@@ -416,7 +416,7 @@ nav_order: 2
     </div>
 
     <div class="member-card">
-      <div class="member-photo"><img src="{{ '/assets/img/members/ai_member2.png' | relative_url }}" alt="Junhui Lee"></div>
+      <div class="member-photo"><img src="{{ '/assets/img/members/Lee_Junhui.jpeg' | relative_url }}" alt="Junhui Lee"></div>
       <div class="member-body">
         <h4 class="member-name">이준희 <span class="en">Junhui Lee</span><span class="badge-fulltime">Full-time</span></h4>
         <p class="member-interest">로봇 빅데이터, ROS</p>
