@@ -181,7 +181,7 @@ latest_posts:
   }
   .home-page .hero-img-wrap img {
     max-width: 100%;
-    width: 520px;
+    width: 416px;
     height: auto;
     border-radius: 14px;
     box-shadow: 0 4px 16px rgba(0,0,0,0.06);
