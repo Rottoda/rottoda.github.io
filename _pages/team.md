@@ -408,7 +408,7 @@ nav_order: 2
   <div class="member-grid">
 
     <div class="member-card">
-      <div class="member-photo"><img src="{{ '/assets/img/members/ai_member10.png' | relative_url }}" alt="Hyosung Kim"></div>
+      <div class="member-photo"><img src="{{ '/assets/img/members/Kim_Hyosung.jpeg' | relative_url }}" alt="Hyosung Kim"></div>
       <div class="member-body">
         <h4 class="member-name">김효성 <span class="en">Hyosung Kim</span><span class="badge-fulltime">Full-time</span></h4>
         <p class="member-interest">ROS, 멀티모달 센싱</p>
