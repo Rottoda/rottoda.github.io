@@ -233,8 +233,8 @@ latest_posts:
     <li>Students who want to build rigorous, data-driven mathematical models.</li>
     <li>Students who want to grow soft skills such as academic English and paper writing.</li>
   </ul>
-  <p class="lead">For open positions, please see our <a href="https://www.threads.com/@knu_rottoda/post/DVumV0iAXja?xmt=AQF0fVLuZZ5jGyiWaxjCyt7BOMhee3yVL2EH2iU-Z4heNQ" target="_blank" rel="noopener">recruitment post</a>.</p>
-  <a class="recruit-cta" href="https://www.threads.com/@knu_rottoda/post/DVumV0iAXja?xmt=AQF0fVLuZZ5jGyiWaxjCyt7BOMhee3yVL2EH2iU-Z4heNQ" target="_blank" rel="noopener">
+  <p class="lead">For open positions, please see our <a href="{{ '/recruitment/' | relative_url }}">recruitment page</a>.</p>
+  <a class="recruit-cta" href="{{ '/recruitment/' | relative_url }}">
     Open positions →
   </a>
 </div>
@@ -268,8 +268,8 @@ latest_posts:
     <li>빅데이터 기반의 수학적이고 객관적인 모델을 만들고 싶은 학생</li>
     <li>영어 또는 논문 작성법 등의 soft skill을 높이고 싶은 학생</li>
   </ul>
-  <p class="lead">연구실 Open position에 관해서는 <a href="https://www.threads.com/@knu_rottoda/post/DVumV0iAXja?xmt=AQF0fVLuZZ5jGyiWaxjCyt7BOMhee3yVL2EH2iU-Z4heNQ" target="_blank" rel="noopener">recruitment</a>를 참고해 주세요.</p>
-  <a class="recruit-cta" href="https://www.threads.com/@knu_rottoda/post/DVumV0iAXja?xmt=AQF0fVLuZZ5jGyiWaxjCyt7BOMhee3yVL2EH2iU-Z4heNQ" target="_blank" rel="noopener">
+  <p class="lead">연구실 Open position에 관해서는 <a href="{{ '/recruitment/' | relative_url }}">모집 안내 페이지</a>를 참고해 주세요.</p>
+  <a class="recruit-cta" href="{{ '/recruitment/' | relative_url }}">
     모집 안내 →
   </a>
 </div>
