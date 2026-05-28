@@ -395,9 +395,9 @@ nav_order: 2
     </div>
 
     <div class="member-card">
-      <div class="member-photo"><img src="{{ '/assets/img/members/Lee_Gyeongsub.jpeg' | relative_url }}" alt="Gyeongsub Lee"></div>
+      <div class="member-photo"><img src="{{ '/assets/img/members/Lee_Gyeongsub.jpeg' | relative_url }}" alt="GyeongSeop Lee"></div>
       <div class="member-body">
-        <h4 class="member-name">이경섭 <span class="en">Gyeongsub Lee</span><span class="badge-parttime">Part-time</span></h4>
+        <h4 class="member-name">이경섭 <span class="en">GyeongSeop Lee</span><span class="badge-parttime">Part-time</span></h4>
         <p class="member-interest">Simulator, ROS, Reinforcement Learning</p>
       </div>
     </div>
