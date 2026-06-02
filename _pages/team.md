@@ -338,18 +338,6 @@ nav_order: 2
   <div class="member-grid">
     <div class="member-card">
       <div class="member-photo">
-        <img src="{{ '/assets/img/members/Son_Gunhee.jpg' | relative_url }}" alt="Gunhee Son">
-      </div>
-      <div class="member-body">
-        <h4 class="member-name">손건희 <span class="en">Gunhee Son</span><span class="badge-fulltime">Full-time</span></h4>
-        <p class="member-role">Undergraduate Researcher</p>
-        <p class="member-interest">Vision-Language-Action, Imitation Learning</p>
-        <p class="member-extra"><a href="https://sites.google.com/view/khson-profile" target="_blank" rel="noopener">Personal site →</a></p>
-      </div>
-    </div>
-
-    <div class="member-card">
-      <div class="member-photo">
         <img src="{{ '/assets/img/members/Bae_Sungeun.jpeg' | relative_url }}" alt="Sungeun Bae">
       </div>
       <div class="member-body">
@@ -468,6 +456,14 @@ nav_order: 2
   <div class="section-divider"></div>
 
   <div class="alumni-grid">
+
+    <div class="alumni-item">
+      <div class="alumni-photo"><img src="{{ '/assets/img/members/Son_Gunhee.jpg' | relative_url }}" alt="Gunhee Son"></div>
+      <div class="alumni-info">
+        <p class="alumni-name">손건희 <span class="en">Gunhee Son</span></p>
+        <p class="alumni-meta">Undergrad. Researcher · Contract ended May 2026 <a href="https://sites.google.com/view/khson-profile" target="_blank" rel="noopener">Personal site</a></p>
+      </div>
+    </div>
 
     <div class="alumni-item">
       <div class="alumni-photo"><img src="{{ '/assets/img/members/ai_member5.png' | relative_url }}" alt="Donghyun Ko"></div>
