@@ -958,7 +958,7 @@ ninja.data = [{
         title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/knu_rottoda", "_blank");
+          window.open("https://instagram.com/the_rottoda", "_blank");
         },
       },{
         id: 'social-orcid',
