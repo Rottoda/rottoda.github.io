@@ -884,6 +884,31 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20260522_Robotis_openlab/";
+            },},{id: "news-rottoda-t-shirts를-제작하였습니다",
+          title: 'Rottoda T-shirts를 제작하였습니다.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260624_Rottoda_tshirts/";
+            },},{id: "news-남세광-교수가-브리스톨-대학교에서-한영국제-공동연구-미팅-및-research-talk을-진행하였습니다",
+          title: '남세광 교수가 브리스톨 대학교에서 한영국제 공동연구 미팅 및 Research Talk을 진행하였습니다.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260727_visit_bristol/";
+            },},{id: "news-제4회-한국햅틱스학술대회에-참여하였습니다",
+          title: '제4회 한국햅틱스학술대회에 참여하였습니다.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260811_4th_haptics/";
+            },},{id: "news-2026학년도-1학기-졸업식-거행",
+          title: '2026학년도 1학기 졸업식 거행!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260821_grduation/";
+            },},{id: "news-경축-로또다가-서울시립대로-이사를-갑니다",
+          title: '경축! 로또다가 서울시립대로 이사를 갑니다!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260830_Transition_to_UOS/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
@@ -944,7 +969,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%73.%6E%61%6D@%6B%6E%75.%61%63.%6B%72", "_blank");
+          window.open("mailto:%73.%6E%61%6D@%75%6F%73.%61%63.%6B%72", "_blank");
         },
       },{
         id: 'social-github',
@@ -979,7 +1004,7 @@ ninja.data = [{
         title: 'Work',
         section: 'Socials',
         handler: () => {
-          window.open("https://data.knu.ac.kr/", "_blank");
+          window.open("https://ai.uos.ac.kr/aiuos/web/main", "_blank");
         },
       },{
       id: 'light-theme',
