@@ -2,7 +2,7 @@
 layout: about
 title: Rottoda
 permalink: /
-subtitle: Robot Touch Data Lab · Graduate School of Data Science, Kyungpook National University
+subtitle: Robot Touch Data Lab · Department of Artificial Intelligence, University of Seoul
 
 selected_papers: true
 social: true
@@ -233,10 +233,10 @@ latest_posts:
     <li>Students who want to build rigorous, data-driven mathematical models.</li>
     <li>Students who want to grow soft skills such as academic English and paper writing.</li>
   </ul>
-  <p class="lead">For open positions, please see our <a href="{{ '/recruitment/' | relative_url }}">recruitment page</a>.</p>
+  <!-- <p class="lead">For open positions, please see our <a href="{{ '/recruitment/' | relative_url }}">recruitment page</a>.</p>
   <a class="recruit-cta" href="{{ '/recruitment/' | relative_url }}">
     Open positions →
-  </a>
+  </a> -->
 </div>
 
 </div>
@@ -268,10 +268,10 @@ latest_posts:
     <li>빅데이터 기반의 수학적이고 객관적인 모델을 만들고 싶은 학생</li>
     <li>영어 또는 논문 작성법 등의 soft skill을 높이고 싶은 학생</li>
   </ul>
-  <p class="lead">연구실 Open position에 관해서는 <a href="{{ '/recruitment/' | relative_url }}">모집 안내 페이지</a>를 참고해 주세요.</p>
+  <!-- <p class="lead">연구실 Open position에 관해서는 <a href="{{ '/recruitment/' | relative_url }}">모집 안내 페이지</a>를 참고해 주세요.</p>
   <a class="recruit-cta" href="{{ '/recruitment/' | relative_url }}">
     모집 안내 →
-  </a>
+  </a> -->
 </div>
 
 </div>

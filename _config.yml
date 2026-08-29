@@ -2,19 +2,19 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: 경북대 데이터사이언스대학원 로봇촉각데이터 연구실 # the website title (if blank, full name will be used instead)
+title: 서울시립대 인공지능학과 로봇촉각데이터 연구실 # the website title (if blank, full name will be used instead)
 first_name: Rottoda
 middle_name:
 last_name:
 contact_note: >
-  경북대학교 데이터사이언스대학원 로봇촉각데이터 연구실 (남세광 교수)
+  서울시립대 인공지능학과 로봇촉각데이터 연구실 (남세광 교수)
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Data, Science, Robot, Touch, Haptics, Sensors # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+keywords: Robot tactile sensors, Haptics, Robot Learning # add your own keywords or leave empty
+lang: en, kr # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: rottoda_favicon/favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://rottoda.com # the base hostname & protocol for your site

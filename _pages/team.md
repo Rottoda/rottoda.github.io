@@ -297,7 +297,7 @@ nav_order: 2
       <h3 class="pi-name">남세광 <span style="color:var(--global-text-color-light);font-weight:400;font-size:0.95rem;">Saekwang Nam</span></h3>
       <p class="pi-role">
         Assistant Professor<br>
-        Graduate School of Data Science, Kyungpook National University
+        Department of Artificial Intelligence, University of Seoul
       </p>
       <div class="pi-links">
         <a href="https://scholar.google.com/citations?user=DSZzGh0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
@@ -315,11 +315,12 @@ nav_order: 2
         <ul>
           <li><b>Researcher</b>, Electronics and Telecommunications Research Institute, Daejeon, Korea (2013 – 2017)</li>
           <li><b>Postdoctoral Research Associate</b>, Dexterous Robotics Group, University of Bristol, UK (2022 – 2024)</li>
-          <li><b>Assistant Professor</b>, Graduate School of Data Science, Kyungpook National University (2024 – present)</li>
+          <li><b>Assistant Professor</b>, Graduate School of Data Science, Kyungpook National University (Mar. 2024 – Aug. 2026)</li>
+          <li><b>Assistant Professor</b>, Department of Artificial Intelligence, University of Seoul (Sep. 2026 – present)</li>
         </ul>
         <h4>Academic Services</h4>
         <ul>
-          <li><b>Local Chair</b>, 2026 Asia Haptics Conference (2026)</li>
+          <li><b>Local Arrangement Chair</b>, 2026 Asia Haptics Conference (2026)</li>
           <li><b>Extended Abstracts Chair</b>, IEEE-RAS RoboSoft 2026 (2026)</li>
           <li><b>Organizing Committee</b>, 4th Korean Haptics Society PI Symposium (2026)</li>
           <li><b>Director of International Cooperation</b>, Korean Haptics Society (2025 – 2026)</li>
@@ -330,7 +331,7 @@ nav_order: 2
   </div>
 </div>
 
-<!-- ============ Researchers ============ -->
+<!-- ============ Researchers ============
 <div class="team-section">
   <h2 class="section-title">Researchers</h2>
   <div class="section-divider"></div>
@@ -347,16 +348,26 @@ nav_order: 2
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <!-- ============ MS Students ============ -->
 <div class="team-section">
   <h2 class="section-title">M.S. Students</h2>
-  <p class="section-sub">Current graduate students by commencement year</p>
+  <p class="section-sub">Current graduate students by enrollment year</p>
   <div class="section-divider"></div>
 
-  <h3 class="year-label">Commencement 2026</h3>
+  <h3 class="year-label">Enrolled at KNU in 2026</h3>
   <div class="member-grid">
+    <div class="member-card">
+      <div class="member-photo">
+        <img src="{{ '/assets/img/members/Bae_Sungeun.jpeg' | relative_url }}" alt="Sungeun Bae">
+      </div>
+      <div class="member-body">
+        <h4 class="member-name">배성은 <span class="en">Sungeun Bae</span><span class="badge-fulltime">Full-time</span></h4>
+        <p class="member-role">Undergraduate Researcher</p>
+        <p class="member-interest">Haptic Sensing, Big Data Analytics, Robot Perception</p>
+      </div>
+    </div>
 
     <div class="member-card">
       <div class="member-photo"><img src="{{ '/assets/img/members/Ku_Hyeongmo.png' | relative_url }}" alt="Hyeongmo Ku"></div>
@@ -382,17 +393,9 @@ nav_order: 2
       </div>
     </div>
 
-    <div class="member-card">
-      <div class="member-photo"><img src="{{ '/assets/img/members/Lee_Gyeongsub.jpeg' | relative_url }}" alt="GyeongSeop Lee"></div>
-      <div class="member-body">
-        <h4 class="member-name">이경섭 <span class="en">GyeongSeop Lee</span><span class="badge-parttime">Part-time</span></h4>
-        <p class="member-interest">Simulator, ROS, Reinforcement Learning</p>
-      </div>
-    </div>
-
   </div>
 
-  <h3 class="year-label spaced">Commencement 2025</h3>
+  <h3 class="year-label spaced">Enrolled at KNU in 2025</h3>
   <div class="member-grid">
 
     <div class="member-card">
@@ -430,38 +433,28 @@ nav_order: 2
     </div>
 
   </div>
-
-  <h3 class="year-label spaced">Commencement 2024</h3>
-  <div class="member-grid">
-
-    <div class="member-card">
-      <div class="member-photo"><img src="{{ '/assets/img/members/Jeong_HuiMyeong.jpeg' | relative_url }}" alt="HuiMyeong Jeong"></div>
-      <div class="member-body">
-        <h4 class="member-name">정희명 <span class="en">HuiMyeong Jeong</span><span class="badge-parttime">Part-time</span></h4>
-        <p class="member-interest">소셜 미디어 콘텐츠 참여도 예측을 위한 데이터 분석</p>
-        <p class="member-extra">
-          <a href="https://www.instagram.com/ttneck.labs/" target="_blank" rel="noopener">Instagram</a> ·
-          <a href="https://www.linkedin.com/in/ttnecklabs" target="_blank" rel="noopener">LinkedIn</a>
-        </p>
-      </div>
-    </div>
-
-  </div>
 </div>
 
 <!-- ============ Alumni ============ -->
 <div class="team-section">
-  <h2 class="section-title">Alumni</h2>
-  <p class="section-sub">Former members and where they are now</p>
+  <h2 class="section-title">Alumni of KNU</h2>
+  <p class="section-sub">Former KNU members and where they are now</p>
   <div class="section-divider"></div>
 
   <div class="alumni-grid">
+    <div class="alumni-item">
+      <div class="alumni-photo"><img src="{{ '/assets/img/members/Jeong_HuiMyeong.jpeg' | relative_url }}" alt="HuiMyeong Jeong"></div>
+      <div class="alumni-info">
+        <p class="alumni-name">정희명 <span class="en">HuiMyeong Jeong</span></p>
+        <p class="alumni-meta">M.S. Aug 2026 · iM 데이터 시스템 <a href="https://www.instagram.com/ttneck.053" target="_blank" rel="noopener">Instagram</a></p>
+      </div>
+    </div>
 
     <div class="alumni-item">
       <div class="alumni-photo"><img src="{{ '/assets/img/members/Son_Gunhee.jpg' | relative_url }}" alt="Gunhee Son"></div>
       <div class="alumni-info">
         <p class="alumni-name">손건희 <span class="en">Gunhee Son</span></p>
-        <p class="alumni-meta">Undergrad. Researcher · Contract ended May 2026 <a href="https://sites.google.com/view/khson-profile" target="_blank" rel="noopener">Personal site</a></p>
+        <p class="alumni-meta">Undergrad. Researcher · Contract ended May 2026 <a href="https://sites.google.com/view/khson-profile-record" target="_blank" rel="noopener">Personal site</a></p>
       </div>
     </div>
 

@@ -167,6 +167,16 @@ nav_order: 1
       </div>
     </a>
 
+  </div>
+</div>
+
+<div class="proj-section">
+  <h2>Completed Projects</h2>
+  <div class="proj-accent"></div>
+  <p class="proj-section-sub">수행이 종료된 연구과제입니다.</p>
+
+  <div class="proj-grid">
+
     <a class="proj-card" href="{{ '/projects/itrc/' | relative_url }}">
       <div class="proj-img"><img src="{{ '/assets/img/projects/itrc/rep_img_v2.png' | relative_url }}" alt="데이터기반 모빌리티 연구"></div>
       <div class="proj-body">
@@ -202,16 +212,6 @@ nav_order: 1
         <span class="proj-detail">상세 →</span>
       </div>
     </a>
-
-  </div>
-</div>
-
-<div class="proj-section">
-  <h2>Completed Projects</h2>
-  <div class="proj-accent"></div>
-  <p class="proj-section-sub">수행이 종료된 연구과제입니다.</p>
-
-  <div class="proj-grid">
 
     <a class="proj-card" href="{{ '/projects/agi/' | relative_url }}">
       <div class="proj-img"><img src="{{ '/assets/img/projects/agi/rep_img.png' | relative_url }}" alt="범용 인공지능 연구"></div>
