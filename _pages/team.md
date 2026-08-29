@@ -364,7 +364,7 @@ nav_order: 2
       </div>
       <div class="member-body">
         <h4 class="member-name">배성은 <span class="en">Sungeun Bae</span><span class="badge-fulltime">Full-time</span></h4>
-        <p class="member-role">Undergraduate Researcher</p>
+        <!-- <p class="member-role">Undergraduate Researcher</p> -->
         <p class="member-interest">Haptic Sensing, Big Data Analytics, Robot Perception</p>
       </div>
     </div>
