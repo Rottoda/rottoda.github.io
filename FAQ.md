@@ -21,6 +21,7 @@ Here are some frequently asked questions. If you have a different question, plea
   - [How can I update Tabler Icons version on the template](#how-can-i-update-tabler-icons-version-on-the-template)
   - [What do all these GitHub actions/workflows mean?](#what-do-all-these-github-actionsworkflows-mean)
   - [How can I use Google Search Console ID on the template?](#how-can-i-use-google-search-console-id-on-the-template)
+  - [How can I use Naver Search Advisor ID on the template?](#how-can-i-use-naver-search-advisor-id-on-the-template)
 
 <!--te-->
 
