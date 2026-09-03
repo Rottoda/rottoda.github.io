@@ -137,3 +137,11 @@ In the configuration file `_config.yml` the tag `google-site-verification` shoul
 - The string against `content` is the Google Search Console ID that can be used in the template. e.g. `google-site-verification: GoogleSearchConsoleID`. Now set the property `enable_google_verification: true`.
 
 It looks like the Domain type property in the Google Search Console to verify the ownership of all URLs across all subdomains with GitHub Pages does not work.
+
+## How can I use Naver Search Advisor ID on the template?
+
+In the configuration file `_config.yml` the tag `naver_site_verification` should be updated to use this functionality. Here is how you can proceed,
+
+- Register your site at [https://searchadvisor.naver.com/](https://searchadvisor.naver.com/) and open 사이트 관리 (site management) for it.
+- In the ownership verification step choose HTML 태그 (HTML tag) and copy the tag contents which should look like `<meta name="naver-site-verification" content="NaverSearchAdvisorID" />`.
+- The string against `content` is the Naver Search Advisor ID that can be used in the template. e.g. `naver_site_verification: NaverSearchAdvisorID`. Now set the property `enable_naver_verification: true`.
