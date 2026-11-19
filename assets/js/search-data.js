@@ -909,6 +909,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20260830_Transition_to_UOS/";
+            },},{id: "news-경축-rottoda의-로봇같은-휴먼-최재웅-학생이-k-data-science-컨퍼런스에서-미래연구상을-수상하였습니다",
+          title: '경축! Rottoda의 로봇같은 휴먼, 최재웅 학생이 K-Data Science 컨퍼런스에서 미래연구상을 수상하였습니다.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260911_KDS/";
+            },},{id: "news-남세광-교수가-기획한-제1회-한일햅틱스공동심포지엄이-성공적으로-개최되었습니다",
+          title: '남세광 교수가 기획한 제1회 한일햅틱스공동심포지엄이 성공적으로 개최되었습니다.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20261116_KR-JP_Haptics_Symposium/";
+            },},{id: "news-로또다가-asiahaptics-2026-conference에-참여했습니다",
+          title: '로또다가 AsiaHaptics 2026 Conference에 참여했습니다.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20260918_asiahaptics/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
