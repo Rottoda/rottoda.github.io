@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 로또다가 AsiaHaptics 2026 Conference에 참여했습니다.
-date: 2025-11-19 18:00:00+0900
+date: 2026-11-19 18:00:00+0900
 inline: false
 related_posts: false
 ---
